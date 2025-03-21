@@ -1,0 +1,34 @@
+Whisper Keys Proprietary Software License Agreement
+1. Introduction
+
+This Software License Agreement ("Agreement") is entered into by and between Whisper Keys ("Licensor") and you ("Licensee") for the use of Whisper Keys software ("Software"). By installing, accessing, or using the Software, you agree to be bound by the terms and conditions of this Agreement.
+2. Proprietary Rights
+
+The Software is proprietary to the Licensor and is protected by applicable intellectual property rights. The Licensor retains all rights, title, and interest in and to the Software, including all copyrights, trademarks, and trade secrets. Subject to the terms and conditions of this Agreement, the Licensor grants to the Licensee a non-exclusive, non-transferable license to use the Software solely for personal or internal business purposes. The Licensee may not sublicense, assign, or transfer the license to any third party without the prior written consent of the Licensor.
+3. Trial Mode and Activation
+
+The Software is initially available in a free trial mode, allowing the Licensee to test its functionality before purchasing a license. The trial mode may have limited features or time restrictions. To fully activate the Software, the Licensee must purchase a valid software key from Whisper Keys' website or by contacting Whisper Keys directly. The activation key will be provided after successful payment.
+4. Authorized Uses and Restrictions
+
+The Licensee may use the Software solely for the purposes described in the Software's documentation and marketing materials. However, the Licensee may not modify, reverse engineer, or decompile the Software. Additionally, the Licensee may not distribute, sublicense, or sell the Software or any part thereof, nor use the Software for any purpose other than as specified in this Agreement.
+5. Payment Terms
+
+The Licensee must pay the applicable license fee for the Software key as specified on Whisper Keys' website or as agreed upon with Whisper Keys. Payment must be made in full before the activation key is issued. The accepted payment methods are:
+6. Warranty Disclaimer
+
+The Software is provided "as is" without warranty of any kind, express or implied. Whisper Keys disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+7. Termination
+
+This Agreement will terminate immediately if the Licensee breaches any term or condition of this Agreement. Upon termination, the Licensee must cease all use of the Software and destroy all copies of the Software in their possession.
+8. Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or understandings, whether written or oral. Whisper Keys reserves the right to modify this Agreement at any time. The Licensee's continued use of the Software after any modification shall constitute acceptance of the modified Agreement.
+9. Acceptance
+
+By using the Software, you acknowledge that you have read, understand, and agree to be bound by the terms and conditions of this Agreement.
+10. Contact Information
+
+For any questions or to purchase a software key, please contact Whisper Keys at:
+
+Website URL: whisperkeys.pythonanywhere.com
+
